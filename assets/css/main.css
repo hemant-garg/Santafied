@@ -3,8 +3,15 @@
  * Feel free to modify it in any way you like
  */
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
+  /* overflow-x: hidden; */
 }
 /*navbar Starts*/
 #brand-color {
